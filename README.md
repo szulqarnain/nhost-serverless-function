@@ -1,0 +1,1 @@
+# nhost-serverless-function
