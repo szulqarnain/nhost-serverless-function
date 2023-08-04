@@ -1,0 +1,38 @@
+{
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "@types/node": "^20.4.4",
+    "typescript": "^5.1.6",
+    "@types/jsonwebtoken": "^9.0.0",
+    "dotenv": "^16.0.3"
+  },
+  "name": "amadeus-search-flights",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/flygency/amadeus-search-flights.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flygency/amadeus-search-flights/issues"
+  },
+  "homepage": "https://github.com/flygency/amadeus-search-flights#readme",
+  "description": "",
+  "dependencies": {
+    "@types/node-fetch": "^2.6.4",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.1",
+    "@nhost/stripe-graphql-js": "^1.0.4",
+    "graphql": "16.7.1",
+    "graphql-scalars": "^1.18.0",
+    "graphql-yoga": "^3.4.0",
+    "jsonwebtoken": "^9.0.0",
+    "stripe": "^11.8.0"
+  }
+}
