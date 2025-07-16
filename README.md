@@ -70,7 +70,7 @@ Feel free to check the [issues page](https://github.com/flygency/amadeus-search-
 
 This project is [ISC licensed](LICENSE).
 
-Created with ❤️ by Syed Zulqarnain
+Created with ❤️ by [Syed Zulqarnain](https://www.linkedin.com/in/szulqarnain)
 
 ## 🌐 Links
 
